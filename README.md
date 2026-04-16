@@ -50,18 +50,10 @@ Project/
 作者　GitHub：https://github.com/mike0209-create
 ---
 
-#完成品スクリーンショット
-
-
-
-
-
 ## フォルダ作成
 
 ```bash
 mkdir images
-
-
 
 ## 🖥 初期画面
 ![初期画面](./images/top.png)
